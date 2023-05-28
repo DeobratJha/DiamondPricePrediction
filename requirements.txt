@@ -1,5 +1,7 @@
 pandas
 flask
+sklearn
+scikit-learn
 -e . #(-e .)to trigger setup.py not to install
 
 
