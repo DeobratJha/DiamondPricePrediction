@@ -1,0 +1,9 @@
+pandas
+flask
+-e . #(-e .)to trigger setup.py not to install
+
+
+
+
+# conda activate D:\ProjectPw\DiamondPricePrediction\venv
+# conda deactivate
